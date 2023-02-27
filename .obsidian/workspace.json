@@ -1,0 +1,490 @@
+{
+  "main": {
+    "id": "19aa3c0ff94415f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "438fd1339e029213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ea0fbc07632550",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "1. GM Screen/1. GM Screen.md"
+              }
+            }
+          },
+          {
+            "id": "76fcbec4a18b2e0f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. World/Otari/Menace Under Otari/17. Kobold Warren.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d5d6d9f3922a611d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Quill Constantine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Quill Constantine.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Douglas Spinebeard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Aasimar-Redeemer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Aasimar-Redeemer.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Douglas Spinebeard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d9a061d12cd385be",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. World/Otari/Menace Under Otari/2. Drop Into Darkness.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3204a91092b6604d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Dramatis Personae/Heroes/Heroes of Otari/Truth of Buel.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e54984eac0aa8716",
+    "type": "split",
+    "children": [
+      {
+        "id": "da3f48f0b725ea66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed2cf9edae2d65cc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df1a2a83b6ef0fb7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d695d553dfcc957",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "e14bc4af34690792",
+    "type": "split",
+    "children": [
+      {
+        "id": "658bda7afd9d78f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62c370dd78935c2a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8aa417fbae9e67be",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "324413b5dbbf618d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4079ae0123d4b761",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md"
+              }
+            }
+          },
+          {
+            "id": "9a382bb338a5e99c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2be775217d26060",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "53d7f2943a2a724d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "5055b5f860336054",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec962c2296269f53",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "675aa6200b880c71",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "94cc027908f2bb6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f888c35d2f2932b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-custom-frames:Open jaybird": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "d5d6d9f3922a611d",
+  "lastOpenFiles": [
+    "4. Dramatis Personae/Heroes/Heroes of Otari/Quill Constantine.md",
+    "4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Aasimar-Redeemer.md",
+    "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Level 10/Avatar.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Level 10/Alter Reality.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Cantrips/Cantrips.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Rituals/Level 1/Infernal Pact.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Rituals/Level 1/Abyssal Pact.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Focus Spells/Level 8/Impaling Briars.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Focus Spells/Level 1/Adapt Self.md",
+    "2. Core Mechanics/1. Core Rule Book/Items/Adventuring Gear/Material Component Pouch.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Xulgath Boss.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Hobgoblin Warrior.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Drow Sneak.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Bugbear Marauder.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Families/Dragon, Chromatic.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Companions/Eidolons/Beast Eidolon.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Companions/Eidolons/Angel Eidolon.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary 2/Ancient-Cloud-Dragon.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary 2/Akata.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary 2/Aapoph-Serpentfolk.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Adult-Copper-Dragon.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Dryad.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Dryad-Queen.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Giant-Eagle.md"
+  ]
+}
