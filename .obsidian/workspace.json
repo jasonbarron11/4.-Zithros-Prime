@@ -58,24 +58,6 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Quill Constantine",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Quill Constantine.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Douglas Spinebeard",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Aasimar-Redeemer",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Aasimar-Redeemer.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
                   "title": "Douglas Spinebeard",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md\",\"mode\":\"preview\",\"source\":true}}",
@@ -452,18 +434,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-custom-frames:Open jaybird": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-custom-frames:Open jaybird": false
     }
   },
   "active": "d5d6d9f3922a611d",
   "lastOpenFiles": [
-    "4. Dramatis Personae/Heroes/Heroes of Otari/Quill Constantine.md",
     "4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md",
-    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Aasimar-Redeemer.md",
     "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
+    "4. Dramatis Personae/Heroes/Heroes of Otari/Quill Constantine.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Aasimar-Redeemer.md",
     "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Level 10/Avatar.md",
     "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Level 10/Alter Reality.md",
     "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Cantrips/Cantrips.md",
