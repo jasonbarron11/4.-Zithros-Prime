@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "76fcbec4a18b2e0f",
+            "id": "d5d6d9f3922a611d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -37,30 +37,33 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "17. Kobold Warren",
+                  "title": "Douglas Spinebeard",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/17. Kobold Warren.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d5d6d9f3922a611d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
+                  "title": "Aasimar-Redeemer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Aasimar-Redeemer.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1. Hungry Rats!",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/1. Hungry Rats!.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":25.305882352941175}"
+                },
+                {
+                  "title": "5. Forgotten Crypt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/5. Forgotten Crypt.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":1.6736401673640167}"
+                },
+                {
+                  "title": "Alistaire Donophan of Riddenhold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 },
                 {
@@ -104,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md",
+                "file": "4. Dramatis Personae/Heroes/Heroes of Otari/Kyra.md",
                 "mode": "preview",
                 "source": true
               }
@@ -158,8 +161,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,7 +263,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +288,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -327,9 +327,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md"
-              }
+              "state": {}
             }
           },
           {
@@ -482,16 +480,20 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d5d6d9f3922a611d",
+  "active": "ed2cf9edae2d65cc",
   "lastOpenFiles": [
-    "4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md",
+    "3. World/Otari/Menace Under Otari/11. Kobolds and Traps.md",
+    "3. World/Otari/Menace Under Otari/10. Abadar's Vault.md",
     "3. World/Otari/Menace Under Otari/5. Forgotten Crypt.md",
+    "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
+    "4. Dramatis Personae/Heroes/Heroes of Otari/Kyra.md",
+    "4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Aasimar-Redeemer.md",
+    "4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md",
     "3. World/Otari/Menace Under Otari/2. Drop Into Darkness.md",
     "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Ghaele.md",
-    "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
     "3. World/Otari/Menace Under Otari/17. Kobold Warren.md",
     "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Giant-Rat.md",
-    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Aasimar-Redeemer.md",
     "4. Dramatis Personae/Heroes/Heroes of Otari/Truth of Buel.md",
     "4. Dramatis Personae/Heroes/Heroes of Otari/Quill Constantine.md",
     "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Level 10/Avatar.md",
@@ -505,10 +507,6 @@
     "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Xulgath Boss.md",
     "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Hobgoblin Warrior.md",
     "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Drow Sneak.md",
-    "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Bugbear Marauder.md",
-    "2. Core Mechanics/1. Core Rule Book/Bestiary/Families/Dragon, Chromatic.md",
-    "2. Core Mechanics/1. Core Rule Book/Bestiary/Companions/Eidolons/Beast Eidolon.md",
-    "2. Core Mechanics/1. Core Rule Book/Bestiary/Companions/Eidolons/Angel Eidolon.md",
-    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary 2/Ancient-Cloud-Dragon.md"
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Bugbear Marauder.md"
   ]
 }
